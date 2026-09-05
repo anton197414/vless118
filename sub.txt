@@ -1,9 +1,4 @@
-vless://07c89f03-9f8a-4ace-9dff-738dafdb6c50@fl1.vpnifty.ru:18443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=7cjXiyeAfM-T8WIAKKfqXtNn4Myv0Tm8N0OaXm2QAkU&security=reality&sni=fl1.vpnifty.ru&type=tcp#%E2%9A%A1%EF%B8%8FAUTO
-vless://07c89f03-9f8a-4ace-9dff-738dafdb6c50@nl.vpnifty.ru:18443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=7cjXiyeAfM-T8WIAKKfqXtNn4Myv0Tm8N0OaXm2QAkU&security=reality&sni=nl.vpnifty.ru&type=tcp#%E2%9A%A1%EF%B8%8FAUTO
-vless://07c89f03-9f8a-4ace-9dff-738dafdb6c50@de.vpnifty.ru:18443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=7cjXiyeAfM-T8WIAKKfqXtNn4Myv0Tm8N0OaXm2QAkU&security=reality&sni=de.vpnifty.ru&type=tcp#%E2%9A%A1%EF%B8%8FAUTO
-vless://07c89f03-9f8a-4ace-9dff-738dafdb6c50@fl1.vpnifty.ru:443?encryption=none&security=tls&type=xhttp#%E2%9A%A1%EF%B8%8FAUTO
-vless://07c89f03-9f8a-4ace-9dff-738dafdb6c50@pl.vpnifty.ru:18443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=7cjXiyeAfM-T8WIAKKfqXtNn4Myv0Tm8N0OaXm2QAkU&security=reality&sni=pl.vpnifty.ru&type=tcp#%E2%9A%A1%EF%B8%8FAUTO
-vless://07c89f03-9f8a-4ace-9dff-738dafdb6c50@ru2.vpnifty.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=CO1cX5I7eLh6PuGuQ--wx-SRgc5pEiBgBbZLiZXKyXk&security=reality&sni=www.icloud.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+
 vless://07c89f03-9f8a-4ace-9dff-738dafdb6c50@cdn2.vpnifty.ru:443?encryption=none&security=tls&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%B5%D0%BB%D1%8B%D1%85%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2
 vless://32b5e4de-9fa8-4690-9abd-5a4f90e2fed3@5.180.174.43:49001?security=reality&encryption=none&pbk=GEdBn2lXjwA68Xl2SFJPy4jhlWxTTtRvES6UPN38MAo&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%F0%9F%87%AC%F0%9F%87%A7%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
 vless://32b5e4de-9fa8-4690-9abd-5a4f90e2fed3@ch.allmoon.fun:49001?security=reality&encryption=none&pbk=IVBSmYfNLJoZwKsOOkJiT3qhrbT7jPUpzhYHGPp15y4&fp=firefox&type=grpc&serviceName=grpc&sni=ch.allmoon.fun#%F0%9F%87%A8%F0%9F%87%BF%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F
